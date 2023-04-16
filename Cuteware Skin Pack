@@ -1,0 +1,62 @@
+Tutorial:
+Steps:
+(FOR KRNL)
+Downloads > Krnl > Workspace > Cuteware > CustomModels
+
+(FOR SYNAPSE)
+Downloads > Synapse > Workspace > Cipex_Configs Or Cuteware_Configs (Depends On Script Used) > CustomModels
+
+____________________________________________________________________________________________________________________________________
+
+Arsenal Kit (DarkHeart Coming Soon)
+
+[
+{"modelid":"rbxassetid://6551664161","weaponname":"defaultknife","modelname":"Coal Sword"},
+{"modelid":"rbxassetid://6558497759","weaponname":"defaultknife","modelname":"ACT Trophy"},
+{"modelid":"rbxassetid://6558482294","weaponname":"defaultknife","modelname":"Da Melee"},
+{"modelid":"rbxassetid://6558454823","weaponname":"defaultknife","modelname":"Ban Hammer"},
+{"modelid":"rbxassetid://6557159354","weaponname":"defaultknife","modelname":"Very Long Bat"},
+{"modelid":"rbxassetid://6557167291","weaponname":"defaultknife","modelname":"Crucible"},
+{"modelid":"rbxassetid://6557196365","weaponname":"defaultknife","modelname":"Bloxy"},
+{"modelid":"rbxassetid://6557257013","weaponname":"defaultknife","modelname":"Crowbar"}
+]
+
+____________________________________________________________________________________________________________________________________
+
+Others
+
+[
+{"modelid":"rbxassetid://6603299079","weaponname":"AWP","modelname":"Old AWP | Doge Lore"},
+{"modelid":"rbxassetid://6565691328","weaponname":"defaultknife","modelname":"Ham"},
+{"modelid":"rbxassetid://6557148153","weaponname":"defaultknife","modelname":"Burger"},
+{"modelid":"rbxassetid://6562139237","weaponname":"defaultknife","modelname":"Heywe Cube"},
+
+____________________________________________________________________________________________________________________________________
+
+дауны ебаныеs - reine#2117 Customs Models
+
+[
+{"modelid":"rbxassetid://6476897690","weaponname":"Karambit","modelname":"Old Karambit"},
+{"modelid":"rbxassetid://6569305303","weaponname":"Karambit","modelname":"Old Karambit | Twitch"},
+{"modelid":"rbxassetid://6422093888","weaponname":"Butterfly Knife","modelname":"Old Butterfly Knife"},
+{"modelid":"rbxassetid://6568018757","weaponname":"Butterfly Knife","modelname":"Old Butterfly Knife | Sapphire"},
+{"modelid":"rbxassetid://6557295747","weaponname":"Butterfly Knife","modelname":"Old Butterfly Knife | Twitch"},
+{"modelid":"rbxassetid://6559368966","weaponname":"Butterfly Knife","modelname":"Old Butterfly Knife | Ruby"},
+{"modelid":"rbxassetid://6562139237","weaponname":"Butterfly Knife","modelname":"Heywe Cube"},
+{"modelid":"rbxassetid://6477596645","weaponname":"Gut Knife","modelname":"Old Gut Knife"},
+{"modelid":"rbxassetid://6421375318","weaponname":"defaultknife","modelname":"Flip Knife"},
+{"modelid":"rbxassetid://6565837869","weaponname":"Huntsman Knife","modelname":"Old Huntsman Knife"},
+{"modelid":"rbxassetid://6553852233","weaponname":"Huntsman Knife","modelname":"Old Huntsman Knife | Ruby"},
+{"modelid":"rbxassetid://6570650309","weaponname":"Bayonet","modelname":"Old Bayonet, but with new bayonet animations"},
+{"modelid":"rbxassetid://6478215819","weaponname":"defaultknife","modelname":"Pickaxe"},
+{"modelid":"rbxassetid://6500095467","weaponname":"DesertEagle","modelname":"Pathbringer"},
+{"modelid":"rbxassetid://6669716399","weaponname":"Karambit","modelname":"Talon Knife"},
+{"modelid":"rbxassetid://6487384650","weaponname":"defaultknife","modelname":"Shadow Daggers"},
+{"modelid":"rbxassetid://6587879507","weaponname":"Scout","modelname":"Old Scout"},
+{"modelid":"rbxassetid://6590565396","weaponname":"defaultknife","modelname":"CSGO M9 Bayonet | Autotronic"},
+{"modelid":"rbxassetid://6597109573","weaponname":"defaultknife","modelname":"CSGO M9 Bayonet | Nebula"},
+{"modelid":"rbxassetid://6578171344","weaponname":"AWP","modelname":"AWP But without scope"},
+{"modelid":"rbxassetid://6647769269","weaponname":"AWP","modelname":"Old AWP | 02"},
+{"modelid":"rbxassetid://6655720351","weaponname":"AWP","modelname":"Old AWP | Weeb"},
+{"modelid":"rbxassetid://6603299079","weaponname":"AWP","modelname":"Old AWP | Doge Lore"}
+]
